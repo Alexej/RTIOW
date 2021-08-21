@@ -23,3 +23,9 @@ Highly recommend running it with pypy, final scene took around 30mins with pypy 
 
 giving props to another RTIOW repo for joblib
 
+## Final Scene
+![final_scene](https://user-images.githubusercontent.com/49614339/130330611-13bfc94e-6c56-49ad-8bb0-e1c34529647c.png)
+
+
+## Animated Scene
+![video3](https://user-images.githubusercontent.com/49614339/130331032-933480ce-7b56-4dc0-986e-e7dacb857950.gif)
